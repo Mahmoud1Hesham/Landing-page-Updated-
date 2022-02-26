@@ -17,7 +17,7 @@ The landing page is used to be an interface of a brand or a company .. so it has
 
 ## Instructions on how to run the project.
 
-to open it up as a normal page please run index.html
+to open it up as a normal page please run index.html .
 
 ## Technologies used 
 
